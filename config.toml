@@ -1,6 +1,6 @@
 baseurl = "https://gruessung.eu"
 title = "Alexander Grüßung"
-theme = "hugo-universal-theme"
+theme = "hugo-universal-theme-edit"
 themesDir = "themes"
 languageCode = "de-de"
 # Site language. Available translations in the theme's `/i18n` directory.
