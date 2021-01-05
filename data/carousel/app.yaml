@@ -1,0 +1,8 @@
+weight: 2
+title: "App Development"
+description: >
+  <ul class="list-style-none">
+    <li>native App Entwicklung für Android</li>
+    <li>mit Flutter</li>
+  </ul>
+image: "img/frame_app.png"
