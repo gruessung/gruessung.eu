@@ -5,7 +5,7 @@ id = "contact"
 
 # Haben Sie Fragen oder wollen Sie ein Angebot?
 
-Wollen Sie Ihr Projekt in die Tat umsetzten? Dann fordern Sie gleich ein Angebot an. 
+Willst Du Dein Projekt in die Tat umsetzten? Dann fordere gleich ein Angebot an. 
 
-Schreiben Sie an info@gruessung.eu und ich werde Ihnen zeitnah antworten!
+Schreib mir an info ät gruessung dot eu und ich werde Dir zeitnah antworten!
 
