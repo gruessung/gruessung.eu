@@ -48,8 +48,7 @@ paginate = 10
 [[menu.main]]
     identifier = "contact"
     name = "Kontakt"
-    #url  = "https://cloud.solardorf.eu/apps/forms/c6ESDLRa7CoMy2cc"
-    url = "/contact"
+    url = "/contact/"
     weight = 5
     Target = ""
 
