@@ -25,6 +25,13 @@ paginate = 10
     Target = ""
 
 [[menu.main]]
+    identifier = "services" 
+    name = "Services"
+    url  = "/services/"
+    weight = 2
+    Target = ""
+
+[[menu.main]]
     identifier = "leistungen" 
     name = "Leistungen"
     url  = "/leistungen/"
