@@ -35,28 +35,28 @@ paginate = 10
     identifier = "leistungen" 
     name = "Leistungen"
     url  = "/leistungen/"
-    weight = 2
+    weight = 3
     Target = ""
 
 [[menu.main]]
     identifier="blog"
     name = "Blog"
     url  = "/blog/"
-    weight = 3
+    weight = 4
     Target = ""
 
 [[menu.main]]
     identifier = "skills"
     name = "Skills"
     url  = "/skills/"
-    weight = 4
+    weight = 5
     Target = ""
 
 [[menu.main]]
     identifier = "contact"
     name = "Kontakt"
     url = "/contact/"
-    weight = 5
+    weight = 6
     Target = ""
 
 # Top bar social links menu
